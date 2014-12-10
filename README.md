@@ -18,7 +18,9 @@ The new mobile application should enable sales reps to view Customer Service cal
 
 ##### The demo is composed of a number of components each with their own gitHub repository
 
-- Demo documentation | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  This Repository
+  Demo Component |  Repository
+  ---------------|------------
+- Demo documentation (this repository) | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  
 - Customer Call Center WebApp    |
 - PCF Rest Services for Call Center | 
 - iPhone Mobile App |
