@@ -16,7 +16,7 @@ The new mobile application should enable sales reps to view Customer Service cal
 
 ![DemoSnapshot](https://github.com/rdbwebster/vca-mycustomer-demo/blob/master/resources/DemoSnapshot.png)
 
-### The demo is composed of a number of components each with their own gitHub repository
+##### The demo is composed of a number of components each with their own gitHub repository
 
 - Demo documentation | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  This Repository
 - Customer Call Center WebApp    |
