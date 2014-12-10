@@ -21,7 +21,7 @@ The new mobile application should enable sales reps to view Customer Service cal
   Demo Component |  Repository
   ---------------|------------
 - Demo documentation (this repository) | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  
-- Customer Call Center WebApp    | [vca-callcenterapp-demo]](https://github.com/rdbwebster/vca-callcenterapp-demo)
+- Customer Call Center WebApp    | [vca-callcenterapp-demo](https://github.com/rdbwebster/vca-callcenterapp-demo)
 - PCF Rest Services for Call Center | [sandman-pcf](https://github.com/rdbwebster/sandman-pcf)
 - iPhone Mobile App |
 
