@@ -1,7 +1,5 @@
-vca-mycustomer-demo
-===================
-
 # A vCloud Air Application Services Demo
+===================
 
 This demo highlights the use of Application Services on VMWare vCloud Air
 
@@ -16,11 +14,11 @@ The new mobile application should enable sales reps to view Customer Service cal
 - A PCF User Provided Service connecting to a remote on-premise mySQL Database
 - A mobile client utilizing Kinvey mBaaS for Push Notifications
 
-![DemoSnapshot](https://github.com/rdbwebster/vca-mycustomer-demo/resources/DemoSnapshot.png)
+![DemoSnapshot](https://github.com/rdbwebster/vca-mycustomer-demo/blob/master/resources/DemoSnapshot.png)
 
-## The demo is composed of a number of components each with their own gitHub repository
+### The demo is composed of a number of components each with their own gitHub repository
 
-- Demo documentation | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)
+- Demo documentation | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  This Repository
 - Customer Call Center WebApp    |
 - PCF Rest Services for Call Center | 
 - iPhone Mobile App |
