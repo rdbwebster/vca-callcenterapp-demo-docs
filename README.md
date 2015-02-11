@@ -14,16 +14,18 @@ The new mobile application should enable sales reps to view Customer Service cal
 - A PCF User Provided Service connecting to a remote on-premise mySQL Database
 - A mobile client utilizing Kinvey mBaaS for Push Notifications
 
-![DemoSnapshot](https://github.com/rdbwebster/vca-mycustomer-demo/blob/master/resources/DemoSnapshot.png)
+![DemoSnapshot](https://github.com/rdbwebster/vca-callcenterapp-demo-docs/blob/master/resources/DemoSnapshot.png)
 
 ###### The demo is composed of a number of components each with their own gitHub repository
 
   Demo Component |  Repository
   ---------------|------------
-- Demo documentation (this repository) | [vca-mycustomerDemo](https://github.com/rdbwebster/vca-mycustomer-demo)  
+- Demo documentation (this repository) | [vca-calldenterapp-demo-docs](https://github.com/rdbwebster/vca-callcenterapp-demo-docs)  
 - Customer Call Center WebApp    | [vca-callcenterapp-demo](https://github.com/rdbwebster/vca-callcenterapp-demo)
 - iPhone Mobile App | [vca-mcare](https://github.com/rdbwebster/vca-mcare)
 
+
+![WebSnapshot](https://github.com/rdbwebster/vca-callcenterapp-demo-docs/blob/master/resources/mCareWeb.png)
 
 
 mCare Web Client Use Cases
