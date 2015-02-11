@@ -25,11 +25,16 @@ The new mobile application should enable sales reps to view Customer Service cal
 - iPhone Mobile App | [vca-mcare](https://github.com/rdbwebster/vca-mcare)
 
 
+
+
+mCare Web Client
+----------------
+
 ![WebSnapshot](https://github.com/rdbwebster/vca-callcenterapp-demo-docs/blob/master/resources/mCareWeb.png)
 
 
-mCare Web Client Use Cases
---------------------------
+
+#### mCare Web Client Use Cases
 
 #####Search
 
@@ -87,8 +92,12 @@ mCare Web Client Use Cases
 2. Reload the database with sample  data
 
 
-mCare Mobile Client Use Cases
-----------------------------------
+mCare Mobile Client
+--------------------
+
+![WebMobileSnapshot](https://github.com/rdbwebster/vca-callcenterapp-demo-docs/blob/master/resources/mCare_mobile.png)
+
+#### mCare Mobile Client Use Cases
 
 1. Login
 2. Logout  
